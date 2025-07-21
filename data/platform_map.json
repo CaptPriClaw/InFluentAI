@@ -1,0 +1,14 @@
+{
+  "instagram": {
+    "base_url": "https://www.instagram.com/",
+    "scraper_method": "instaloader"
+  },
+  "youtube": {
+    "base_url": "https://www.youtube.com/@",
+    "scraper_method": "yt-dlp"
+  },
+  "linkedin": {
+    "base_url": "https://www.linkedin.com/in/",
+    "scraper_method": "serpapi"
+  }
+}

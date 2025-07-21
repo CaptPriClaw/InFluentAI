@@ -1,0 +1,19 @@
+textblob
+matplotlib
+pandas
+streamlit
+apscheduler
+tiktoken
+seaborn
+scikit-learn
+python-dateutil
+jinja2
+plotly
+feedparser
+
+# LangChain packages with compatible versions
+langchain==0.1.17
+langchain-community==0.0.27
+langchain-core==0.1.37  # Must match langchain's required range
+
+openai==1.30.1
