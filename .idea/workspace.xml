@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba514ad-910b-450e-8907-5b032b8f6280" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/InFluentAI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agents/content_summarizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agents/handle_scraper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agents/sentiment_analyzer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agents/trend_predictor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analytics/charts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analytics/trend_forcaster.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/scheduler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/influencers_list.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/platform_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/send_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/summarizer/langchain_chain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/streamlit_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +35,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753016845946</updated>
-      <workItem from="1753016847106" duration="17725000" />
+      <workItem from="1753016847106" duration="19212000" />
     </task>
     <servers />
   </component>

@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-OPENAI_API_KEY = os.getenv("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")
+OPENAI_API_KEY = os.getenv("your_openai_api_key")
 
 llm = OpenAI(temperature=0.5, openai_api_key=OPENAI_API_KEY)
 
